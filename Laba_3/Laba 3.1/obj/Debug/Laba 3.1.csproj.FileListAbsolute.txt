@@ -1,0 +1,7 @@
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\bin\Debug\Laba 3.1.exe.config
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\bin\Debug\Laba 3.1.exe
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\bin\Debug\Laba 3.1.pdb
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\obj\Debug\Laba 3.1.csproj.AssemblyReference.cache
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\obj\Debug\Laba 3.1.csproj.CoreCompileInputs.cache
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\obj\Debug\Laba 3.1.exe
+C:\Университет\II семестр\ОП 2\Проекты\Laba_3\Laba 3.1\obj\Debug\Laba 3.1.pdb
